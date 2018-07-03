@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About this site
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I started this website in order to have a place where I could explain myself
+and keep tracking of my research, thoughts and writings. As I am a computer
+engineer, I wanted to do it the most hand-made I could. So that I can learn in
+the process.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Firstly, my mother language is Spanish. I apologize about likely mistakes and
+sections written completrly in Spanish.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Secondly, I write in English this introduction because I like to force my mind
+to think in English.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Finally, I hope you enjoy the content and share it social-network-wide.
