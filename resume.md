@@ -6,7 +6,7 @@ permalink: /resume/
 
 # R. VIVAS, Francisco A.
 
-I am a Software Engineer working as DevOps with an increasing interest in Data. I started in this field when I was a Web Developer who wanted to know how was the deployment process in production. Now I want to adquire Data so I can know how to improve both processes, development and deployment.
+I am currently employed as DevOps, and I have become increasingly interested in using data for process improvement. I came to this field from Development, and, due both to a personal interest and a team necessity, I became interested in secure and automated deployment processes. My current aim is to acquire further knowledge on data acquisition and management to improve both development and deployment processes.
 
 ## Experience
 
