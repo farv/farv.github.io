@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    margin-bottom: 25px;
+}
+.title {
+    color: black;
+}
+.name {
+    margin-top: 5px;
+    font-size: 25px;
+    text-align: center;
+}
+.currentJob span{
+    font-size: 20px;
+    padding: 0px 30px 0px 30px;
+    background-color: white;
+    margin-left: 60%;
+}
+.currentJob hr{
+    position: relative;
+    z-index: -1;
+    top: -20px;
+    border-color: black;
+    border-width: 1.5px;
+}
+.content {
+    color: black;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.content .one {
+    background-color: white;
+    border-right: 1px solid black;
+    grid-column: 1;
+    text-align: right;
+    padding-right: 15px;
+    margin-left: auto;
+    max-width: 225px;
+}
+.content h3 {
+    color:black;
+    padding-top: 3px;
+}
+.content .two {
+    background-color: white;
+    max-width: 625px;
+    padding-left: 15px;
+    padding-right: 20px;
+    border-left: 1px solid black;
+    grid-column: 2/4;
+}
+.content .two h2 {
+    text-align: center;
+    padding-bottom: 4px;
+    border: 1px solid black;
+}
