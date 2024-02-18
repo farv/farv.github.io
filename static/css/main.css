@@ -4,10 +4,11 @@ body {
 }
 .title {
     color: black;
+    margin-top: 0em;
 }
 .name {
     margin-top: 5px;
-    font-size: 25px;
+    font-size: 19px;
     text-align: center;
 }
 .currentJob span{
@@ -53,4 +54,14 @@ body {
     text-align: center;
     padding-bottom: 4px;
     border: 1px solid black;
+}
+.content .two h4 {
+    margin-bottom: 8px;
+}
+.content p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.content li {
+    margin: 10px 0px 5px 10px;
 }
