@@ -2,6 +2,13 @@ body {
     background-color: white;
     margin-bottom: 25px;
 }
+.name h1 {
+    margin: 0.5em;
+}
+.rightside h2:first-of-type {
+    margin-top: 0.4em;
+    margin-bottom: 0.5em;
+}
 .title {
     color: black;
     margin-top: 0em;
